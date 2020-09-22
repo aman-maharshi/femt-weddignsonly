@@ -1,0 +1,15 @@
+.btn {
+    font-weight: 700;
+    text-transform: uppercase;
+    border: none;
+    color: white;
+    background: gray;
+    padding: 10px 20px;
+    font-size: 1rem;
+}
+.btn i {
+    margin-right: 10px;
+}
+.btn--orange {
+    background: var(--orange);
+}

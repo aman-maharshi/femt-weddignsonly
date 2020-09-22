@@ -1,0 +1,7 @@
+.features-section__title {
+    text-align: center;
+    color: var(--blue-dark);
+    font-size: 2.5rem;
+    font-weight: 500;
+    margin: 1rem 0;
+}

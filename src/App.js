@@ -1,10 +1,13 @@
 import React from "react"
+import HeaderSection from "./components/HeaderSection"
+import FeaturesSection from "./components/FeaturesSection"
 
 function App() {
     return (
-        <div>
-            <p>Hi</p>
-        </div>
+        <>
+            <HeaderSection />
+            <FeaturesSection />
+        </>
     )
 }
 
