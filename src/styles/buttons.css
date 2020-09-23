@@ -17,3 +17,7 @@
     background: var(--blue-light);
     margin: 0;
 }
+.btn--green {
+    background: rgb(76, 156, 107);
+    margin: 0;
+}
