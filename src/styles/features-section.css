@@ -1,7 +1,15 @@
+.features-section {
+    background: var(--gray-bg);
+}
 .features-section__title {
     text-align: center;
     color: var(--blue-dark);
     font-size: 2.5rem;
     font-weight: 500;
     margin: 1rem 0;
+}
+.features-section__card-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
 }

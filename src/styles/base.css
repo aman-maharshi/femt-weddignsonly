@@ -3,7 +3,7 @@
 :root {
     --orange: #f9c132;
     --blue-dark: #174a83;
-    --blue-light: #174a83;
+    --blue-light: #4cbad4;
     --gray-bg: #f8f8f8;
     --gray-text: #b2b1b6;
     --temp-bg: #476685;
@@ -19,6 +19,5 @@ body {
 .wrapper {
     max-width: 1100px;
     margin: 0 auto;
-    border: 1px solid rgb(133, 133, 133);
     padding: 3rem 0;
 }

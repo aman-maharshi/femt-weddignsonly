@@ -13,3 +13,7 @@
 .btn--orange {
     background: var(--orange);
 }
+.btn--blue {
+    background: var(--blue-light);
+    margin: 0;
+}
