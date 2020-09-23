@@ -1,5 +1,4 @@
 .header-section {
-    /* background: var(--temp-bg) url(../images/header-bg.jpeg); */
     color: white;
     background-image: linear-gradient(#2866acaf, #1d5596a9), url(../images/header-bg.jpeg);
     background-color: #174a83;
